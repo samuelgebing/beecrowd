@@ -4,4 +4,11 @@ This repository was created to into practice the programming languages ​​I a
 
 ## Lessons Learned
 
-For now, I am focusing on JavaScript basics due to my Bolsa Futuro Digital course (https://github.com/samuelgebing/bolsa-futuro-digital-codes).****
+For now, I am focusing on JavaScript basics due to my Bolsa Futuro Digital course (https://github.com/samuelgebing/bolsa-futuro-digital-codes).
+
+## Accessing the problems
+
+To view the problems descriptions, you can access them via this link: [judge.beecrowd.com](https://judge.beecrowd.com/pt/problems/view/1000). You only need to replace the number "1000" in the URL with the specific ID of the exercise you want to see.
+
+## Profile on Beecrowd
+https://judge.beecrowd.com/pt/profile/745429

@@ -7,4 +7,4 @@ var lines = input.split('\n');
 var A = parseInt(lines.shift());
 var B = parseInt(lines.shift());
 
-console.log(`SUM = ${A+B}`);
+console.log(`SOMA = ${A+B}`);
